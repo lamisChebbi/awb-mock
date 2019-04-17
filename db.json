@@ -1,0 +1,168 @@
+{
+    "type": "com.palmyra.arch.presentation.chart.model.Chart",
+    "xKey": "Month",
+    "chartType": "lineChart",
+    "yAxisLabel": "Temperature (�C)",
+    "xAxisLabel": "Month",
+    "xData": [
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "January",
+            "code": "230"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "February",
+            "code": "229"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "March",
+            "code": "231"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "April",
+            "code": "232"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "May",
+            "code": "233"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "June",
+            "code": "234"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "July",
+            "code": "235"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "August",
+            "code": "236"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "September",
+            "code": "237"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "October",
+            "code": "238"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "November",
+            "code": "239"
+        },
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.XData",
+            "xValue": "December",
+            "code": "240"
+        }
+    ],
+    "series": [
+        {
+            "type": "com.palmyra.arch.presentation.chart.model.Series",
+            "seriesType": "lineSeries",
+            "yKey": "NewYork",
+            "yData": [
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "35.0",
+                    "code": "366",
+                    "yValue": 35,
+                    "xValue": "June"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "13.5",
+                    "code": "370",
+                    "yValue": 13.5,
+                    "xValue": "October"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "1.5",
+                    "code": "372",
+                    "yValue": 1.5,
+                    "xValue": "December"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "40.36",
+                    "code": "365",
+                    "yValue": 40.36,
+                    "xValue": "May"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "19.5",
+                    "code": "369",
+                    "yValue": 19.5,
+                    "xValue": "September"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "30.5",
+                    "code": "363",
+                    "yValue": 30.5,
+                    "xValue": "March"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "32.0",
+                    "code": "367",
+                    "yValue": 32,
+                    "xValue": "July"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "10.0",
+                    "code": "362",
+                    "yValue": 10,
+                    "xValue": "January"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "20.0",
+                    "code": "361",
+                    "yValue": 20,
+                    "xValue": "February"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "40.0",
+                    "code": "364",
+                    "yValue": 40,
+                    "xValue": "April"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "30.0",
+                    "code": "368",
+                    "yValue": 30,
+                    "xValue": "August"
+                },
+                {
+                    "type": "com.palmyra.arch.presentation.chart.model.YData",
+                    "toolTip": "7.3",
+                    "code": "371",
+                    "yValue": 7.3,
+                    "xValue": "November"
+                }
+            ],
+            "rGB": {
+                "type": "com.palmyra.arch.presentation.chart.model.RGB",
+                "red": 0,
+                "green": 0,
+                "blue": 153
+            }
+        }
+    ]
+}
